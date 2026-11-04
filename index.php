@@ -34,7 +34,7 @@
                         <select name="categoria" id="categoria_equipamento" class="form-select">
                             <option value="" selected disabled>Selecione uma categoria</option>
                             <option value="1">Desmontadoras</option>
-                            <option value="2">Balanceadoras</option>
+                            <option value="2">Balanceadores</option>
                             <option value="3">Alinhadores</option>
                             <option value="4">Elevadores</option>
                             <option value="5">Rampas</option>
